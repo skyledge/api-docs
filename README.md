@@ -1,6 +1,6 @@
-# shins
+# Sky Ledge Developer Documentation
 
-### Shins Is Not Slate
+### Welcome!
 
 Beautiful static documentation for your API.
 
